@@ -2,7 +2,7 @@
 
 ![img1](https://media.wired.com/photos/5932901ba312645844995d7e/master/w_2560%2Cc_limit/MadMen.jpg)
 
-* [1. Gère toi toi-même](#Section_1)
+* [1. Gère-toi toi-même](#Section_1)
 * * [1.1 Le stoïcisme et vous](#Section_11) 
 * [2. Les Hommes sont cruels](#Section_2)  
 * * [2.1 La carotte et le bâton](#Section_21) 
