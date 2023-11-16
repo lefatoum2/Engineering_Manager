@@ -10,4 +10,6 @@
 * [3. One-on-One et One-on-Ones](#Section_3)  
 * * [3.1 L'art du thérapeute](#Section_31) 
 * * [3.2 Espionnage et gardinage](#Section_32) 
-* * [3.3 L'art  du silence](#Section_33) 
+* * [3.3 L'art  du silence](#Section_33)
+* [4. MANAGEMENT à la Papa](#Section_4)
+* [5. MANAGEMENT participatif](#Section_5) 
